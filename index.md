@@ -4,7 +4,7 @@ This is my home page! My name is Daerrick Rocha and I am a student at [Cal State
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/DaerrickR325.
+My GitHub page is [http://github.com/DaerrickR325.](http://github.com/DaerrickR325)
 
 ### CPSC 120
 
